@@ -19,6 +19,10 @@
   - [백준 1712](./baekjoon_code/BOJ1712_yet.py)
   - [백준 2839](./baekjoon_code/BOJ2839_yet.py)
   - [백준 2869](./baekjoon_code/BOJ2869_yet.py)
-  
+
 ### 이것이 코딩 테스트다
 #### 그리디 알고리즘
+- gridi
+  -[문제 01](./This_is_cording_test/gridi01.py)
+  -[문제 02](./This_is_cording_test/gridi02.py)
+  -[문제 02_1](./This_is_cording_test/gridi02_01.py)
