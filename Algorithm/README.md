@@ -1,18 +1,28 @@
-# MY Python Repository
+# 매일매일 공부하는 알고리즘
 
-## Documents
+## MY RECORD
 
-### Algorithm
-#### 백준 및 기타 알고리즘 문제 폴더
-- List
-  - [Algorithm](./Algorithm)
+### 백준
+#### 풀은 문제
+- sovled
+  - [백준 1546](./baekjoon_code/BOJ_1546_solved.py)
+  - [백준 10156](./baekjoon_code/BOJ_10156_solved.py)
+  - [백준 10610](./baekjoon_code/BOJ_10610_solved.py)
+  - [백준 1357](./baekjoon_code/BOJ1357_solved.py)
+  - [백준 2753](./baekjoon_code/BOJ2753_solved.py)
+  - [백준 2884](./baekjoon_code/BOJ2884_solved.py)
+  - [백준 10952](./baekjoon_code/BOJ10952_solved.py)
 
-### Projects
-#### 진행 했던 프로젝트
-- List
-  - [강남구 아파트 가격 분석 및 예측 프로젝트](./apartAnaly)
-  - [철새의 이동 경로 그래프](./bird_track)
-  - [인구수 대비 보건소 수 블록맵](./blockMap)
-  - [기사에서 글자 분석 워드 클라우드](./word_cloud)
+#### 아직 해결하지 못한 문제
+- yet
+  - [백준 1267](./baekjoon_code/BOJ_1267_yet.py)
+  - [백준 1712](./baekjoon_code/BOJ1712_yet.py)
+  - [백준 2839](./baekjoon_code/BOJ2839_yet.py)
+  - [백준 2869](./baekjoon_code/BOJ2869_yet.py)
 
-#### 진행 중인 프로젝트
+### 이것이 코딩 테스트다
+#### 그리디 알고리즘
+- gridi
+  -[문제 01](./This_is_cording_test/gridi01.py)
+  -[문제 02](./This_is_cording_test/gridi02.py)
+  -[문제 02_1](./This_is_cording_test/gridi02_01.py)
