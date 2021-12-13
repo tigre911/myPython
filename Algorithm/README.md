@@ -13,6 +13,8 @@
   - [백준 2884](./baekjoon_code/BOJ2884_solved.py)
   - [백준 10952](./baekjoon_code/BOJ10952_solved.py)
   - [백준 1026 맞는 풀이](./baekjoon_code/BOJ_1026_correctSolved.py), [백준 1026 틀린 풀이](./baekjoon_code/BOJ1026_wrongSolved.py) 
+  - [백준 9093](./baekjoon_code/BOJ9093_solved.py)
+  
 
 #### 아직 해결하지 못한 문제
 - yet
