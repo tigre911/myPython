@@ -6,19 +6,19 @@
 #### 풀은 문제
 - sovled
   - [백준 1546](./baekjoon_code/BOJ_1546_solved.py)
-  - [백준 10156](./baekjoon_code/BOJ_10156_solved.py)
-  - [백준 10610](./baekjoon_code/BOJ_10610_solved.py)
+  - [백준 10156](./baekjoon_code/BOJ10156_solved.py)
+  - [백준 10610](./baekjoon_code/BOJ10610_solved.py)
   - [백준 1357](./baekjoon_code/BOJ1357_solved.py)
   - [백준 2753](./baekjoon_code/BOJ2753_solved.py)
   - [백준 2884](./baekjoon_code/BOJ2884_solved.py)
   - [백준 10952](./baekjoon_code/BOJ10952_solved.py)
-  - [백준 1026 맞는 풀이](./baekjoon_code/BOJ_1026_correctSolved.py), [백준 1026 틀린 풀이](./baekjoon_code/BOJ1026_wrongSolved.py) 
+  - [백준 1026 맞는 풀이](./baekjoon_code/BOJ1026_correctSolved.py), [백준 1026 틀린 풀이](./baekjoon_code/BOJ1026_wrongSolved.py) 
   - [백준 9093](./baekjoon_code/BOJ9093_solved.py)
   
 
 #### 아직 해결하지 못한 문제
 - yet
-  - [백준 1267](./baekjoon_code/BOJ_1267_yet.py)
+  - [백준 1267](./baekjoon_code/BOJ1267_yet.py)
   - [백준 1712](./baekjoon_code/BOJ1712_yet.py)
   - [백준 2839](./baekjoon_code/BOJ2839_yet.py)
   - [백준 2869](./baekjoon_code/BOJ2869_yet.py)
