@@ -22,6 +22,7 @@
   - [백준 1712](./baekjoon_code/BOJ1712_yet.py)
   - [백준 2839](./baekjoon_code/BOJ2839_yet.py)
   - [백준 2869](./baekjoon_code/BOJ2869_yet.py)
+  - [백준 2869_참고풀이](./baekjoon_code/BOJ2869_other.py)
   - [백준 1149](./baekjoon_code/BOJ1149_yet.py)
 
 ### 이것이 코딩 테스트다
