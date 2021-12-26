@@ -9,14 +9,18 @@ print(num_list)
 
 while len(num_list) > 1:
     for i in reversed(range(0, len(num_list), 2)):
-        print(f'i : {i}')
+
         print(f'numlist = {num_list}')
-        num_list.pop(i)
+        print(i)
+        num_list.remove(num_list[i])
         print(f'result = {num_list}')
+        print('-'*50)
 result = num_list[0]
 
 print(result)
 
-#
-# for i in reversed(range(0,7,2)):
-#     print(i)
+for i in range(0,7,2):      #range(처음, 끝, 간격(얼마나띄울건지))
+    print(f'원래 : {i}')
+
+for i in reversed(range(0,7,2)):
+    print(f'뒤집어서 : {i}')
