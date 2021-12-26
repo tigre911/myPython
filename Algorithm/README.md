@@ -27,7 +27,6 @@
   - [백준 4673](./baekjoon_code/BOJ4673_yet.py)
   - [백준 9237](./baekjoon_code/BOJ9237_yet.py)
   - [백준 14501](./baekjoon_code/BOJ14501_yet.py)
-  - [백준 21756]
 
 ### 이것이 코딩 테스트다
 #### 그리디 알고리즘
