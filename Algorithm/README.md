@@ -10,7 +10,7 @@
 
 ### Silver2
 - [백준 10819](./baekjoon_code/BOJ10819_solved.py)
-
+- [백준 6236](./baekjoon_code/BOJ_6236_other.py)
 
 ### Silver3
 
