@@ -1,22 +1,43 @@
 # 매일매일 공부하는 알고리즘
 
-## MY RECORD
+# MY RECORD
 
-### 백준
-#### 풀은 문제
-- sovled
-  - [백준 1546](./baekjoon_code/BOJ_1546_solved.py)
-  - [백준 10156](./baekjoon_code/BOJ10156_solved.py)
-  - [백준 10610](./baekjoon_code/BOJ10610_solved.py)
-  - [백준 1357](./baekjoon_code/BOJ1357_solved.py)
-  - [백준 2753](./baekjoon_code/BOJ2753_solved.py)
-  - [백준 2884](./baekjoon_code/BOJ2884_solved.py)
-  - [백준 10952](./baekjoon_code/BOJ10952_solved.py)
-  - [백준 10952 java](./baekjoon_code/BOJ10952_solved.java)
-  - [백준 1026 맞는 풀이](./baekjoon_code/BOJ1026_correctSolved.py), [백준 1026 틀린 풀이](./baekjoon_code/BOJ1026_wrongSolved.py) 
-  - [백준 9093](./baekjoon_code/BOJ9093_solved.py)
-  - [백준 21756](./baekjoon_code/BOJ21756_solved.py)
-  - [백준 10819](./baekjoon_code/BOJ10819_solved.py)
+## 백준
+### 풀은 문제
+### ✏️ Level
+
+### Silver1
+
+### Silver2
+- [백준 10819](./baekjoon_code/BOJ10819_solved.py)
+
+
+### Silver3
+
+### Silver4
+- [백준 1026 맞는 풀이](./baekjoon_code/BOJ1026_correctSolved.py)
+
+### Silver5
+- [백준 10610](./baekjoon_code/BOJ10610_solved.py)
+
+### Bronze1
+- [백준 1546](./baekjoon_code/BOJ_1546_solved.py)
+- [백준 1357](./baekjoon_code/BOJ1357_solved.py)
+- [백준 9093](./baekjoon_code/BOJ9093_solved.py)
+
+### Bronze2
+
+- [백준 21756](./baekjoon_code/BOJ21756_solved.py)
+
+### Bronze3
+- [백준 2884](./baekjoon_code/BOJ2884_solved.py)
+- [백준 10952](./baekjoon_code/BOJ10952_solved.py)
+- [백준 10952 java](./baekjoon_code/BOJ10952_solved.java)
+
+### Bronze4
+- [백준 10156](./baekjoon_code/BOJ10156_solved.py)
+- [백준 2753](./baekjoon_code/BOJ2753_solved.py)
+
 
 #### 아직 해결하지 못한 문제
 - yet
