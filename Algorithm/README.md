@@ -19,6 +19,8 @@
 
 ### Silver5
 - [백준 10610](./baekjoon_code/BOJ10610_solved.py)
+- [백준 14405](./baekjoon_code/BOJ_14405_solved.py)
+
 
 ### Bronze1
 - [백준 1546](./baekjoon_code/BOJ_1546_solved.py)
