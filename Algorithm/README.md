@@ -59,3 +59,5 @@
   -[문제 01](./This_is_cording_test/gridi01.py)
   -[문제 02](./This_is_cording_test/gridi02.py)
   -[문제 02_1](./This_is_cording_test/gridi02_01.py)
+-이진탐색
+  -[재귀함수를 이용한 이진탐색](./This_is_cording_test/binary_self.py)
