@@ -53,6 +53,11 @@
   - [백준 9237](./baekjoon_code/BOJ9237_yet.py)
   - [백준 14501](./baekjoon_code/BOJ14501_yet.py)
 
+## 프로그래머스
+
+### Level 2
+- [소수찾기](./Programmers/level2_primeNumber.py)
+
 ### 이것이 코딩 테스트다
 #### 그리디 알고리즘
 - gridi
