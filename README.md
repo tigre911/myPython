@@ -2,11 +2,6 @@
 
 ## Documents
 
-### Algorithm
-#### 백준 및 기타 알고리즘 문제 폴더
-- List
-  - [Algorithm](./Algorithm)
-
 ### Projects
 #### 진행 했던 프로젝트
 - List
